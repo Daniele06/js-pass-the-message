@@ -5,4 +5,4 @@ Exercise 4 from the 100+ Javascript projects page (https://jsbeginners.com/javas
 
 This code takes the text passed in the text field and displays it in the page.
 
-![Alt text](passthemessage.png)
+![project image](challenge4.png)
